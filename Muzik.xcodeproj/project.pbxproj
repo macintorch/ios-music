@@ -12,6 +12,8 @@
 		9E55C99D1F6488CA0039DEBD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E55C99B1F6488CA0039DEBD /* Main.storyboard */; };
 		9E55C99F1F6488CA0039DEBD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E55C99E1F6488CA0039DEBD /* Assets.xcassets */; };
 		9E55C9A21F6488CA0039DEBD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E55C9A01F6488CA0039DEBD /* LaunchScreen.storyboard */; };
+		9E55C9AA1F648BE20039DEBD /* mountain.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E55C9A91F648BE20039DEBD /* mountain.png */; };
+		9E55C9AC1F6490E50039DEBD /* paws.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9E55C9AB1F6490E50039DEBD /* paws.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		9E55C99E1F6488CA0039DEBD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9E55C9A11F6488CA0039DEBD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9E55C9A31F6488CA0039DEBD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9E55C9A91F648BE20039DEBD /* mountain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mountain.png; sourceTree = "<group>"; };
+		9E55C9AB1F6490E50039DEBD /* paws.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = paws.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				9E55C9971F6488CA0039DEBD /* AppDelegate.swift */,
 				9E55C9991F6488CA0039DEBD /* ViewController.swift */,
 				9E55C99B1F6488CA0039DEBD /* Main.storyboard */,
+				9E55C9A91F648BE20039DEBD /* mountain.png */,
+				9E55C9AB1F6490E50039DEBD /* paws.mp3 */,
 				9E55C99E1F6488CA0039DEBD /* Assets.xcassets */,
 				9E55C9A01F6488CA0039DEBD /* LaunchScreen.storyboard */,
 				9E55C9A31F6488CA0039DEBD /* Info.plist */,
@@ -125,7 +131,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				9E55C9A21F6488CA0039DEBD /* LaunchScreen.storyboard in Resources */,
+				9E55C9AC1F6490E50039DEBD /* paws.mp3 in Resources */,
 				9E55C99F1F6488CA0039DEBD /* Assets.xcassets in Resources */,
+				9E55C9AA1F648BE20039DEBD /* mountain.png in Resources */,
 				9E55C99D1F6488CA0039DEBD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
